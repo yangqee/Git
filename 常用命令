@@ -1,0 +1,4 @@
+1.查看本机git信息
+(base) yangqee@yangqeedeSpacecraft ~ % git config --global --list 
+user.name=yangqee
+user.email=yangqee@outlook.com
